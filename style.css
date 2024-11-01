@@ -2,3 +2,8 @@ body{
     color:aliceblue;
     background-color: black;
 }
+section{
+    background:rgb(239, 150, 150);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
